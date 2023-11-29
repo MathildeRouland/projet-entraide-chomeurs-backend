@@ -13,7 +13,7 @@ JWT_PASSPHRASE= CODE
 Dans le DATABASE_URL remplacer UTILISATEUR par le véritable nom de l'utilisateur, MDP par le mot de passe et NOMBDD par le nom de la base de données. 
 Et dans le JWT_PASSPHRASE remplacer CODE par la clé JWT.
 
-Ensuite, dans le terminal créée la base de donnée :
+Ensuite, dans le terminal créer la base de donnée :
 
 ```bash
 php bin/console doctrine:database:create
