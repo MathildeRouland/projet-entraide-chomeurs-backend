@@ -1,4 +1,8 @@
 # projet-06-entr-aide-chomeurs-back
+Projet backend pour l'application web de l'association Entraide Chômeurs (Lunéville).
+Partie frontend sous React et communication avec le backend avec Axios.
+API réalisée sous Symfony, avec login, rôles pour les utilisateurs et JSON Web Token.
+
 
 ## Pour installer notre projet :
 
